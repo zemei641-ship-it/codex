@@ -1,0 +1,1 @@
+{"name":"cold-palace-playable","private":true,"type":"module","scripts":{"check":"node --check game.js && node --check engine.js","test":"node --test engine.test.js"}}
